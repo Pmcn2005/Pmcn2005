@@ -6,7 +6,6 @@ I'm a university student with a passion for technology and coding. Currently, I'
 - 👯 I’m looking to collaborate on open-source projects and hackathons.
 - 💬 Ask me about anything related to programming, algorithms, or technology in general!
 - 📫 You can reach me via email at pmcn2005@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/pedro-nunes-099318304/).
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy experimenting with new programming languages in my free time!
 
 
