@@ -1,5 +1,5 @@
-Hi there 👋\n
-I'm a university student at @InstitutoSuperiorTécnico with a passion for technology and coding. Currently, I'm diving deep into various programming languages and exploring different areas of computer science.
+### Hi there 👋<br>
+I'm a university student at @InstitutoSuperiorTecnico with a passion for technology and coding. Currently, I'm diving deep into various programming languages and exploring different areas of computer science.
 
 - 🔭 I’m currently working on expanding my knowledge in machine learning and data science.
 - 🌱 I’m currently learning advanced algorithms and software development methodologies.
