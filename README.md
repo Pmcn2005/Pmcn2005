@@ -7,4 +7,4 @@ I'm a university student at @InstitutoSuperiorTecnico with a passion for technol
 - 💬 Ask me about anything related to programming, algorithms, or technology in general!
 - 📫 You can reach me via email at pmcn2005@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/pedro-nunes-099318304/).
 - ⚡ Fun fact: I enjoy experimenting with new programming languages in my free time!
-- Known programming languages: Python, C, Prolog, Assembly RISC-V, Java
+- Known programming languages: Python, C, C++, Prolog, Assembly RISC-V, Java
