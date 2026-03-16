@@ -5,4 +5,4 @@ I'm a university student at @InstitutoSuperiorTecnico with a passion for technol
 - I’m currently learning advanced algorithms and software development methodologies.
 - I’m looking to collaborate on open-source projects and hackathons.
 - You can reach me via email at pmcn2005@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/pedro-nunes-099318304/).
-- Known programming languages: Python, C, C++, Prolog, Assembly RISC-V, Java
+- Known programming languages: Java, C, C++, Python, R, Prolog, Assembly (RISC-V), JavaScript, TypeScript
