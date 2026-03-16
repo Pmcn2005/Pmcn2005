@@ -7,7 +7,19 @@ I'm a university student at @InstitutoSuperiorTecnico with a passion for technol
 - You can reach me via email at pmcn2005@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/pedro-nunes-099318304/).
 - Known programming languages: Java, C, C++, Python, R, Prolog, Assembly (RISC-V), JavaScript, TypeScript
 
-<p align="center">
-  ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Pmcn2005&title=MultiLanguage,Experience,Commits,Repositories&column=4&theme=radical) 
-</p>
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Pmcn2005&layout=compact&theme=radical) 
+<br>
+<br>
+  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pmcn2005&title=MultiLanguage,Experience,Commits,Repositories&column=4&theme=radical" alt="Troféus do GitHub" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmcn2005&layout=compact&theme=radical">
+</div>
+
+
+
+
