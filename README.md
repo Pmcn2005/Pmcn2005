@@ -8,4 +8,4 @@ I'm a university student at @InstitutoSuperiorTecnico with a passion for technol
 - Known programming languages: Java, C, C++, Python, R, Prolog, Assembly (RISC-V), JavaScript, TypeScript
 
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Pmcn2005&layout=compact&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Pmcn2005&layout=compact&theme=radical) ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=O_TEU_USERNAME&theme=radical&column=5)****
